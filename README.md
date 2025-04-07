@@ -6,3 +6,5 @@ Steps:
 1. Run object detection
 2. Run audio panning
 3. Merge final video
+
+Need to improve recognition algorithm and audio timing.
